@@ -1,0 +1,96 @@
+body{
+    .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+}
+:root{
+    --main-bg-color:text-primary;
+
+}
+.item-color{
+    letter-spacing: 3px;
+    color: blue;
+}
+
+/* ..........INTEGRATED WAY OF ARCHITECTURE..... */
+
+#home {
+
+
+    background-image: url("../images/background/Vector.png");
+    background-repeat: no-repeat;
+
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+
+}
+/* ...............The-process........ */
+#process{
+    margin-top: 70px;
+    margin-bottom: 150px;
+    
+    background-image: url("/images/background/Vector.png");
+   
+}
+/* ......Our-Services....... */
+#services{
+    margin-top: 60px;
+    margin-bottom: 200px;
+    background-image: url("../images/background/Vector.png");
+    background-repeat: no-repeat;
+}
+/* ...........architecture-firm..........*/
+#architecture{
+    margin-top: 60px;
+    margin-bottom: 150px;
+   
+    background-image: url("/images/background/Vector.png");
+  
+}
+/* ..........new adventure...........  */
+#adventure{
+    margin-top: 50px;
+    margin-bottom: 200px;
+    background-image: url('../images/background/creative01.png');
+}
+/* ...............Digital-Experience......... */
+#digital{
+    margin-top: 50px;
+    margin-bottom: 200px;
+    background-image: url('../images/background/Vector.png');    
+
+}
+/* ............AMBITIOUS CLIENTS.......... */
+#AMBITIOUS{
+    margin-top: 50px;
+    margin-bottom: 250px;
+    background-image: url('../images/background/BG\ \(5\).png');
+    background-repeat: no-repeat;
+}
+/* ..........Testimonials.......... */
+#testimonials{
+    margin-top: 30px;
+    margin-bottom:150px;
+    background-image: url('../images/background/equal.png');
+    background-repeat: no-repeat;
+}
+/* ........Contact us..... */
+#contact{
+    margin-top: 50px;
+    margin-bottom: 200px;
+    background-image: url('../images/background/Group\ 3.png');
+    background-repeat: no-repeat;
+}
+/* ........News and blogs......... */
+#news-blogs{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+/* .......Giveback......... */
+#giveback{
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
